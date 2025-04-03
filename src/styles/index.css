@@ -27,7 +27,8 @@ h1, h2, h3, p {
   justify-content: center;
   padding: 1rem;
   backdrop-filter: blur(10px);
-  background: rgba(255, 223, 0, 0.3); /* Slight honey effect */
+  background:  linear-gradient(135deg, #ffd700, #f9a602);
+  /* rgba(255, 223, 0, 0.3); /* Slight honey effect */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   z-index: 10;
 }
@@ -39,7 +40,7 @@ h1, h2, h3, p {
   justify-content: center;
   gap: 10px;
   padding: 10px;
-  background: linear-gradient(135deg, #ffd700, #f9a602);
+  background: linear-gradient(135deg, #fcf5c4, #fcf5c4);
   border-radius: 30px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
